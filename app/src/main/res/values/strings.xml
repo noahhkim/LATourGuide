@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">LA Tour Guide</string>
+
+    <!-- Attraction name for Echo Park -->
+    <string name="attraction_name_echo_park">Echo Park</string>
+
+    <!-- Attraction address for Echo Park -->
+    <string name="attraction_address_echo_park">751 Echo Park Avenue</string>
+
+    <!-- Attraction address for Echo Park -->
+    <string name="attraction_description_echo_park">Popular destination for fishing, pedal boats and lotus flowers</string>
+
+    <!-- Attraction name for Farmers Market -->
+    <string name="attraction_name_farmers_market">Farmers Market</string>
+
+    <!-- Attraction address for Farmers Market -->
+    <string name="attraction_address_farmers_market">6333 W 3rd St</string>
+
+    <!-- Attraction address for Farmers Market -->
+    <string name="attraction_description_farmers_market">Historic market featuring a range of trendy shops and restaurants</string>
+
+    <!-- Attraction name for Getty Villa -->
+    <string name="attraction_name_getty_villa">Getty Villa</string>
+
+    <!-- Attraction description for Getty Villa -->
+    <string name="attraction_description_getty_villa">Educational center dedicated to the arts and cultures of the ancient world</string>
+
+    <!-- Attraction name for Runyon Canyon Park -->
+    <string name="attraction_name_runyon_canyon_park">Runyon Canyon Park</string>
+
+    <!-- Attraction description for Runyon Canyon Park -->
+    <string name="attraction_description_runyon_canyon_park">Landmark hiking trails known for sweeping city views</string>
+
+    <!-- Attraction name for Griffith Observatory -->
+    <string name="attraction_name_griffith_observatory">Griffith Observatory</string>
+
+    <!-- Attraction description for Griffith Observatory -->
+    <string name="attraction_description_griffith_observatory">Art deco landmark featuring a planetarium and city views</string>
+
+    <!-- Attraction name for Santa Monica Pier -->
+    <string name="attraction_name_santa_monica_pier">Santa Monica Pier</string>
+
+    <!-- Attraction description for Santa Monica Pier -->
+    <string name="attraction_description_santa_monica_pier">Storied seaside destination featuring a popular amusement park</string>
+
+    <!-- Attraction name for Universal CityWalk -->
+    <string name="attraction_name_universal_citywalk">Universal CityWalk</string>
+
+    <!-- Attraction description for Universal CityWalk -->
+    <string name="attraction_description_universal_citywalk">High-energy hub of shops, eateries and nightclubs</string>
+
+    <!-- See name for The Broad -->
+    <string name="see_name_the_broad">The Broad</string>
+
+    <!-- See description for The Broad -->
+    <string name="see_description_the_broad">Contemporary art museum in Downtown Los Angeles</string>
+
+    <!-- See name for Dodgers Stadium -->
+    <string name="see_name_dodgers_stadium">Dodgers Stadium</string>
+
+    <!-- See description for Dodgers Stadium -->
+    <string name="see_description_dodgers_stadium">Classic ballpark home of the Los Angeles Dodgers since 1962</string>
+
+    <!-- See name for Hollywood Bowl -->
+    <string name="see_name_hollywood_bowl">Hollywood Bowl</string>
+
+    <!-- See description for Hollywood Bowl -->
+    <string name="see_description_hollywood_bowl">Amphitheater where concertgoers can picnic and watch shows</string>
+
+    <!-- See name for LACMA -->
+    <string name="see_name_lacma">LACMA</string>
+
+    <!-- See description for LACMA -->
+    <string name="see_description_lacma">Diverse collections of art; also offers screenings and concerts</string>
+
+    <!-- See name for Pantages Theatre -->
+    <string name="see_name_pantages">Pantages Theatre</string>
+
+    <!-- See description for Pantages Theatre -->
+    <string name="see_description_pantages">Former movie palace now host to major Broadway tours and live theater</string>
+
+    <!-- See name for Staples Center -->
+    <string name="see_name_staples">Staples Center</string>
+
+    <!-- See description for Staples Center -->
+    <string name="see_description_staples">Home of the Lakers, Clippers, Kings and Sparks, plus music headliners</string>
+
+    <!-- See name for Walt Disney Concert Hall -->
+    <string name="see_name_wdch">Walt Disney Concert Hall</string>
+
+    <!-- See description for Walt Disney Concert Hall -->
+    <string name="see_description_wdch">Frank Gehry-designed music hall with striking architecture</string>
+
+    <!-- Restaurant name for Tsujita -->
+    <string name="eat_name_tsujita">Tsujita</string>
+
+    <!-- Restaurant description for Tsujita -->
+    <string name="eat_description_tsujita">Modern Japanese outpost serving ramen, sushi and à la carte dinners</string>
+
+    <!-- Restaurant name for Mapo Kkak Doo Gee -->
+    <string name="eat_name_mapo">Mapo Kkak Doo Gee</string>
+
+    <!-- Restaurant description for Mapo Kkak Doo Gee -->
+    <string name="eat_description_mapo">Hole in the wall restaurant offering authentic Korean cuisine</string>
+
+    <!-- Restaurant name for Pasta Sisters -->
+    <string name="eat_name_pasta_sisters">Pasta Sisters</string>
+
+    <!-- Restaurant description for Pasta Sisters -->
+    <string name="eat_description_pasta_sisters">Casual Italian deli offering handmade pasta classics and panini</string>
+
+    <!-- Restaurant name for Bestia -->
+    <string name="eat_name_bestia">Bestia</string>
+
+    <!-- Restaurant description for Bestia -->
+    <string name="eat_description_bestia">Trendy Italian restaurant highlighting creative seasonal fare</string>
+
+    <!-- Restaurant name for Il Cha Korean BBQ -->
+    <string name="eat_name_il_cha">Il Cha Korean BBQ</string>
+
+    <!-- Restaurant description for Il Cha Korean BBQ -->
+    <string name="eat_description_il_cha">Industrial-chic buffet restaurant offering all-you-can-eat meat</string>
+
+    <!-- Restaurant name for Tire Shop Taqueria -->
+    <string name="eat_name_tire_shop_taqueria">Tire Shop Taqueria</string>
+
+    <!-- Restaurant description for Tire Shop Taqueria -->
+    <string name="eat_description_tire_shop_taqueria">Taco stand serving Tijuana style tacos on freshly made tortillas</string>
+
+    <!-- Restaurant name for Larchmont Wine and Cheese -->
+    <string name="eat_name_larchmont_wine_cheese">Larchmont Wine and Cheese</string>
+
+    <!-- Restaurant description for Larchmont Wine and Cheese -->
+    <string name="eat_description_larchmont_wine_cheese">Family shop provides fine wines, artisanal specialties and deli fare</string>
+
+    <!-- Bar name for Highland Park Bowl -->
+    <string name="drink_name_highland_park_bowl">Highland Park Bowl</string>
+
+    <!-- Bar description for Highland Park Bowl -->
+    <string name="drink_description_highland_park_bowl">Hip, antique-filled spot for bowling, live music, and craft cocktails</string>
+
+    <!-- Bar name for Break Room 86 -->
+    <string name="drink_name_break_room_86">Break Room 86</string>
+
+    <!-- Bar description for Break Room_86 -->
+    <string name="drink_description_break_room_86">Lively venue offers cocktails and karaoke with a trendy vibe</string>
+
+    <!-- Bar name for Paley -->
+    <string name="drink_name_paley">Paley</string>
+
+    <!-- Bar description for Paley -->
+    <string name="drink_description_paley">Modern desin serving drinks heavily drawn from seasonal ingredients</string>
+
+    <!-- Bar name for The Fiscal Agent -->
+    <string name="drink_name_fiscal_agent">The Fiscal Agent</string>
+
+    <!-- Bar description for The Fiscal Agent -->
+    <string name="drink_description_fiscal_agent">Intimate hideaway lounge for classic cocktails and vintage vessels </string>
+
+    <!-- Bar name for Everson Royce Bar -->
+    <string name="drink_name_everson_royce_bar">Everson Royce Bar</string>
+
+    <!-- Bar description for Everson Royce Bar  -->
+    <string name="drink_description_everson_royce_bar">Polished cocktail spot with a backlit bar, banquette seating and bar bites</string>
+
+    <!-- Bar name for The Lincoln -->
+    <string name="drink_name_lincoln">The Lincoln</string>
+
+    <!-- Bar description for The Lincoln -->
+    <string name="drink_description_lincoln">Cocktails in an industrial-chic bar with a Model T Roadster and auto books</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_go">Go</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_drink">Drink</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_see">See</string>
+
+
+</resources>
