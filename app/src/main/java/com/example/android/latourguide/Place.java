@@ -6,7 +6,7 @@ package com.example.android.latourguide;
  */
 public class Place {
 
-    /*String resource ID for the name of the place/attraction */
+    /** String resource ID for the name of the place/attraction */
     private int mNameId;
 
     /** String resource ID for the address of the place/attraction */
@@ -20,17 +20,6 @@ public class Place {
 
     /** Constant value that represents no image was provided for this word */
     private static final int NO_IMAGE_PROVIDED = -1;
-
-    /**
-     * Create a new Place object.
-     *
-     * @param nameId is the string resource ID for the name of the popular attraction
-     * @param descriptionId is the string resource Id for the address of the popular attraction
-     */
-    public Place(int nameId, int descriptionId) {
-        mNameId = nameId;
-        mDescriptionId = descriptionId;
-    }
 
     /**
      * Create a new Place object.

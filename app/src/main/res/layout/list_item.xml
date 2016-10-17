@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="@dimen/list_item_height"
+    android:layout_height="wrap_content"
     android:orientation="horizontal">
 
     <ImageView
@@ -15,9 +15,6 @@
         android:id="@+id/text_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
         android:layout_toRightOf="@id/image"
         android:orientation="vertical"
         android:paddingLeft="16dp"
@@ -26,19 +23,17 @@
         <TextView
             android:id="@+id/place_name"
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="center_vertical"
+            android:layout_height="match_parent"
             android:textAppearance="?android:textAppearanceMedium"
             android:textStyle="bold"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp"
             tools:text="getty villa" />
 
         <TextView
             android:id="@+id/place_description"
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="top"
+            android:layout_height="match_parent"
             android:textAppearance="?android:textAppearanceSmall"
             tools:text="popular art place" />
 
